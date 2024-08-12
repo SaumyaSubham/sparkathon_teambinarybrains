@@ -70,7 +70,7 @@ export const Pannel = () => {
               />
             </Box>
             <Box ml={2} display="flex" alignItems={"center"} >
-              How do you want to your items ?{" "}
+              How do you want to your items ? {" "}
               {!pannelButton ? (
                 <Box ml={{
   base: 0,
@@ -111,7 +111,7 @@ export const Pannel = () => {
               <Box>
                 <CiLocationOn />
               </Box>
-              <Box >Scramento 95829</Box>
+              <Box > Washington, DC </Box>
             </Box>
           </Box>
           <Box
@@ -132,7 +132,7 @@ export const Pannel = () => {
               <Box>
                 <IoHomeOutline />
               </Box>
-              <Box>Scramento Supercenter</Box>
+              <Box> Pittsburgh, PA </Box>
             </Box>
           </Box>
         </Box>
