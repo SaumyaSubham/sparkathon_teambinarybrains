@@ -40,7 +40,7 @@ if(isLoading){
         <Box height="250px" bg="#E6CFA7" borderRadius={8}>
           <Box ml={10} display={"flex"} flexDirection={"column"}>
             <Text fontSize={20} className="roboto-bold" mt={5}>
-              Floor care for so much less
+              Floor cares are at 50% off
             </Text>
             <Link textAlign="center">
               <u>Shop now</u>
@@ -57,8 +57,8 @@ if(isLoading){
         <Box bg="#D9E4F5" mt={8}>
           <Box ml={5} display={"flex"} flexDirection={"column"}>
             <Text fontSize={20} className="roboto-bold" mt={5}>
-              Top styles-low,low <br />
-              Prices
+              Premium Dresses at <br />
+              Low cost
             </Text>
           </Box>
           <Flex>
@@ -88,11 +88,11 @@ if(isLoading){
           <Flex justifyContent={"space-around"}>
             <Box>
               <Text fontSize={20} className="roboto-bold" mt={8} ml={5}>
-                Let's play under $25
+                Buy Toys under $25
               </Text>
               <Box mt={8} ml={5}>
                 <Link>
-                  <u>Shop toys</u>
+                  <u>Shop now</u>
                 </Link>
               </Box>
             </Box>
@@ -166,19 +166,19 @@ if(isLoading){
               <Box height={"280px"} ml={5} borderRadius={8}>
                 <Box>
                   <Heading>
-                    Budget friendly <br /> furniture
+                    Budget-friendly <br /> starts 
+                  </Heading>
+                </Box>                
+                <Box mt={15}>
+                  <Text>From</Text>
+                  <Heading>
+                    <sup>$</sup>78
                   </Heading>
                 </Box>
                 <Box>
                   <Link>
                     <u>Shop now</u>
                   </Link>
-                </Box>
-                <Box mt={15}>
-                  <Text>From</Text>
-                  <Heading>
-                    <sup>$</sup>78
-                  </Heading>
                 </Box>
               </Box>
             </Box>
@@ -193,13 +193,13 @@ if(isLoading){
                 <Box>
                   <Box ml={5}>
                     <Link textAlign="center">
-                      <u>Shopow</u>
+                      <u>Shop now</u>
                     </Link>
                   </Box>
 
                   <Box mt={100} ml={5}>
                     <Heading>
-                      Flase <br />
+                      Flash <br />
                       Deals
                     </Heading>
                   </Box>
@@ -219,18 +219,18 @@ if(isLoading){
           <Flex>
             <Box w={"70%"} p={10}>
               <Text fontSize={20}>
-                Enjoy Free Same-day delivery low prices !{" "}
+                Enjoy Free delivery at low prices !{" "}
               </Text>
-              <Text>Apply tearm</Text>
+              <Text>Apply Here</Text>
               <Box mt={8}>
                 {" "}
                 <Link>
-                  <u>Join walmart+</u>
+                  <u>Join walmart 2.0</u>
                 </Link>
               </Box>
             </Box>
             <Box w={"30%"} bg="white" color="#0170DA" borderLeftRadius={50}>
-              <Image src="https://github.com/B2Kumar03/homepageImage/blob/main/walmartlogo.png?raw=true" />
+              <Image src="https://github.com/SaumyaSubham/sparkathon_teambinarybrains/blob/main/src/assets/walmartlogo.png?raw=true" />
             </Box>
           </Flex>
         </Box>
