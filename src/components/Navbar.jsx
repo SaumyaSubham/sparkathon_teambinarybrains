@@ -371,7 +371,7 @@ const Navbar = () => {
                     cursor={"pointer"}
                   >
                     <VscServerProcess />
-                    <Text ml={2}>Walmart +</Text>
+                    <Text ml={2}>Walmart 2.0</Text>
                   </Box>
                 </Text>
                 <Text mt={5} color="black">
