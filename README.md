@@ -9,6 +9,7 @@ The WalmartClone project is a front-end web application created using React, aim
 - [Dependencies](#dependencies)
 - [Installation](#installation)
 - [Contributors](#contributors)
+- [Screenshots](#screenshots)
 
 ## Introduction
 
@@ -62,10 +63,12 @@ npm install react-customscrollbars
 npm run dev .
 ```
 
-##Contributors:
+## Contributors:
 - Saumya Subham Mishra
 - Avishek Nayak
-- Santanu Mohapatra
+- Santanu Kumar Mohapatra
+
+## Screenshots:
 
 - Home with sticky navbar
 ![External Image](https://i.ibb.co/V2RG2GV/photo-6188507592876212477-w.jpg)
