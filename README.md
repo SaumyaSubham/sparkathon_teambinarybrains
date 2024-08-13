@@ -6,9 +6,9 @@ The WalmartClone project is a front-end web application created using React, aim
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
+- [Dependencies](#dependencies)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [Contributors](#contributors)
 
 ## Introduction
 
