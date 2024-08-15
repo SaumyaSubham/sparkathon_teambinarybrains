@@ -13,9 +13,6 @@ Walmart 2.0 is a React-based e-commerce platform offering a seamless shopping ex
 - [Contributors](#contributors)
 - [Screenshots](#screenshots)
 
-## Introduction
-Walmart 2.0 is a React-based e-commerce platform offering a seamless shopping experience, secure checkout, and personalized product recommendations. It utilizes machine learning for churn analysis to optimize user engagement.
-
 ## Features
 
 ### 1. Product Browsing:
