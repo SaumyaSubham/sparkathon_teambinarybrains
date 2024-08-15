@@ -13,7 +13,8 @@ The WalmartClone project is a front-end web application created using React, aim
 
 ## Introduction
 
-Introducing Walmart 2.0, a cutting-edge React-based web application that mirrors the essential features of an online shopping platform, drawing inspiration from the renowned Walmart. Our project aims to deliver a seamless shopping journey, empowering users to explore diverse products, add items to their cart, proceed to checkout, and choose their preferred delivery options. To enhance security, account creation is integrated as a mandatory step for checkout. By leveraging machine learning, our solution focuses on improving product recommendations and price optimization.
+Introducing Walmart 2.0, a cutting-edge React-based web application that mirrors the essential features of an online shopping platform, drawing inspiration from the renowned Walmart. Our project aims to deliver a seamless shopping journey, empowering users to explore diverse products, add items to their cart, proceed to checkout, and choose their preferred delivery options. To enhance security, account creation is integrated as a mandatory step for checkout. By leveraging machine learning, our solution focuses on improving product recommendations and churn analysis.
+
 
 ## Features
 
