@@ -1,6 +1,8 @@
 # WalmartSparkathon
 
-The WalmartClone project is a front-end web application created using React, aiming to replicate the user interface and experience of the Walmart online shopping platform. This project serves as a demonstration of React's capabilities for building dynamic and responsive user interfaces.
+## Introduction
+Walmart 2.0 is a React-based e-commerce platform offering a seamless shopping experience, secure checkout, and personalized product recommendations. It utilizes machine learning for churn analysis to optimize user engagement.
+
 ##### Deployed link: [https://retailwave-wsparkathon.netlify.app/](https://retailwave-wsparkathon.netlify.app/)
 
 ## Table of Contents
@@ -12,9 +14,7 @@ The WalmartClone project is a front-end web application created using React, aim
 - [Screenshots](#screenshots)
 
 ## Introduction
-
-Introducing Walmart 2.0, a cutting-edge React-based web application that mirrors the essential features of an online shopping platform, drawing inspiration from the renowned Walmart. Our project aims to deliver a seamless shopping journey, empowering users to explore diverse products, add items to their cart, proceed to checkout, and choose their preferred delivery options. To enhance security, account creation is integrated as a mandatory step for checkout. By leveraging machine learning, our solution focuses on improving product recommendations and churn analysis.
-
+Walmart 2.0 is a React-based e-commerce platform offering a seamless shopping experience, secure checkout, and personalized product recommendations. It utilizes machine learning for churn analysis to optimize user engagement.
 
 ## Features
 
